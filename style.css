@@ -9,7 +9,7 @@ font-family: 'Rancho', cursive;
 font-size: 40px;
 text-align: center;
 color: #70380f;
-animation: bounce 1s 3s linear infinite;
+animation: bounce 5s 0s linear infinite;
 }
 
 h2 {

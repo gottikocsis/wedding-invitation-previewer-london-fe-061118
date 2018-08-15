@@ -11,10 +11,6 @@ text-align: center;
 color: #70380f;
 }
 
-h1:hover{
-  animation: bounce;
-}
-
 h2 {
   font-family: 'Rancho', cursive;
   display: inline;
